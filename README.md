@@ -1,0 +1,3 @@
+# Data structures
+
+In this repository I have implemented linked list, stack, and queue as three major kinds of data structures used in computer programs. For linked lists, three different variations are implemnted: (i) unidirectional, (ii) bidirectional, and (iii) circular. For both stack and queue, two types of implementations are provided, one with a linked list and the other with an array. All the implementations that are based on a linked list use two main classes of Node and Manager. The Node class creates an abstraction for every node of a linked list and the Manager class allows applying variety of functions on the collection of nodes and in the level of the linked list. 
